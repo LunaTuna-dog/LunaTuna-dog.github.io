@@ -1,0 +1,36 @@
+table, td, tr, th {
+    border: 2px solid rgb(99, 99, 99);
+    border-collapse: collapse;
+    font-family: "Roboto Mono", serif;
+    line-height: 1.5;
+}
+
+th {
+    background-color: rgb(168, 111, 221);
+    letter-spacing: 1;
+}
+
+h1, h2 {
+    text-align: center;
+    color: rgb(236, 251, 138);
+    font-family: "Roboto Mono", serif;
+}
+
+table {
+    text-align: center;
+    margin: auto;
+}
+
+.tag {
+    background-color: rgb(246, 253, 202);
+}
+
+body {
+    background-color: rgb(209, 253, 238);
+    background-image: url("Codebackground2.jpg.webp");
+    background-size: 2500px;
+}
+
+td {
+    background-color: white;
+}
